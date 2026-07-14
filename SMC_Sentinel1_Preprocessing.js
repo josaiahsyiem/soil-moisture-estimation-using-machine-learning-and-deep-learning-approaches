@@ -2,10 +2,6 @@
   Sentinel-1 GRD Dual-Polarimetric Descriptors for Soil Moisture Retrieval
   Google Earth Engine Preprocessing Script
 
-  Author: Josaiah Syiem
-  Institution: Centre of Studies in Resources Engineering (CSRE), IIT Bombay
-  Supervisor: Prof. Y.S. Rao
-
   Description:
     Computes dual-polarimetric descriptors from Sentinel-1 GRD data over the
     Texas Soil Observation Network (TxSON) study area. The following
